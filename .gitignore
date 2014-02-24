@@ -1,0 +1,6 @@
+node_modules
+old_data
+new_data
+old_data_good_backup
+.jshintrc
+.editorconfig

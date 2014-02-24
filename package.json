@@ -1,0 +1,17 @@
+[{
+  "name": "jsonparser",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "latest",
+    "node-uuid": "latest",
+    "rethinkdb" : "latest",
+    "rql-promise" : "latest"
+
+  },
+  "devDependencies": {
+
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}]
